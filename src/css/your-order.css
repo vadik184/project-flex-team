@@ -1,0 +1,15 @@
+.modal-window {
+  display: block;
+  max-width: 335px;
+}
+.modal-title {
+  color: #141414;
+  text-shadow: 0px 4px 70px 0px rgba(0, 0, 0, 0.1);
+  font-family: DM Sans;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
