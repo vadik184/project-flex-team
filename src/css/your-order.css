@@ -1,6 +1,8 @@
 .modal-window {
   display: block;
+  width: calc(100% - 20px);
   max-width: 335px;
+  min-height: 903px;
 }
 .modal-title {
   color: #141414;
