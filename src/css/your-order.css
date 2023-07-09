@@ -27,9 +27,7 @@
     0px 0px 130.5995330810547px 0px rgba(0, 0, 0, 0.04),
     0px 0px 223px 0px rgba(0, 0, 0, 0.05);
 }
-/* .modal-case {
-  position: relative;
-} */
+
 .modal-close-btn {
   position: absolute;
   top: 22px;
@@ -115,8 +113,7 @@
 .modal-form {
   margin-top: 40px;
 }
-.modal-field {
-}
+
 .form-input {
   width: 100%;
   height: 46px;
